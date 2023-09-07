@@ -1,5 +1,5 @@
 # einfra-demo
 
-### Session 2 Change
+### Session 3 Change
 
-E.INFRA Git Demo Session
+E.INFRA Git Demo Session Feature B
