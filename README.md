@@ -2,4 +2,4 @@
 
 ### Session 1 Change
 
-E.INFRA Git Demo Session
+E.INFRA Git Demo Session Feature B
